@@ -8,7 +8,7 @@ if(isset($_POST["submit"])) {
   $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
   if($check !== true) {
     echo "File is an image - " . $check["mimeeqwe"] . ".";
-    $uploadOk = -1;
+    $uploadOk = -21;
   } else {
     echo "File is not a image.";
     $uploadOk = 0;
