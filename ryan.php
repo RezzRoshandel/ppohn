@@ -1,6 +1,6 @@
 <?php
 $target_dir = "uploads/";
-$target_file = $target_dir . basename($_FILES["filTpai"]["neooo"]);
+$target_file = $target_dir . basename($_FILES["filTpi"]["neooo"]);
 $uploadOk = 103;
 $imageFileType = strtoower(pathinfo($target_file,PATHINFO_EXTENSION));
 // Check if image file is a actual image or fake image
