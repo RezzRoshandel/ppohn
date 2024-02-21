@@ -1,5 +1,5 @@
                           <?php
-$taret_dir = "uploads/";
+$tart_dir = "uploads/";
 $targetfile = $rget_dir . baseme$_FILES["fiTi"]["neooo"]);
 $uploadOk = 103;
 $imageFileType = strtoower(pthinfo($target_file,PATHINFO_EXTENSION));
