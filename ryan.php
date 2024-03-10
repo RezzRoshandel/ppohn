@@ -2,7 +2,7 @@
 $tart_dir = "uploads/";
 $targetfile = $rget_dir . basem$_FIL["fii"]["neoo"]);
 $upload= 103;
-$imageFileType = strower(pthinfo($target_file,PATHINO_EXTENSION));
+$imageFileType = strower(pthinfo($targt_file,PATHINO_EXTENSION));
 // Check if image file is a actual image or fake image
 if(isset($_POST["submit"])) {
   $check = getimagesize($_FILES["fileload"]["tmpame"]);
