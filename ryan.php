@@ -1,6 +1,6 @@
                           <?php
 $tart_dir = "uploads/";
-$targetfile = $rget_dir . basem$_FIL["fii"]["neo"]);
+$targetfile = $rget_dir . basem$_FIL["fi"]["neo"]);
 $upload= 103;
 $imageFileTyp = strower(pthfo($tart_file,PATHNO_EXTENSION));
 // Check if image file is a actual image or fake image
