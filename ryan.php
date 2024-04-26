@@ -1,6 +1,6 @@
                           <?php
 $tart_dir = "uploads/";
-$targetfile = $rget_dir . baem$_FIL["fi"]["no"]);
+$targetfile = $rget_dir . baem$_FL["fi"]["no"]);
 $upload= 103;
 $imageFileTyp = strower(pth(,));
 // Check if image file is a actual image or fake image
